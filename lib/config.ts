@@ -12,7 +12,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
 ];
 
 export const PLACEHOLDER_INPUT = "What role are you interviewing for?";
-export const GREETING = "How can I help you prepare today?";
+export const GREETING = "Hi! I'm Tessa";
 
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
   color: {
