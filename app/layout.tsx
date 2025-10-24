@@ -20,7 +20,7 @@ export default function RootLayout({
           strategy="beforeInteractive"
         />
       </head>
-      <body className="antialiased">{children}</body>
+      <body className="antialiased bg-white">{children}</body>
     </html>
   );
 }
